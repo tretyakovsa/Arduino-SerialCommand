@@ -2,7 +2,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-SerialCommand KEYWORD1
+StringCommand KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -10,7 +10,7 @@ SerialCommand KEYWORD1
 
 addCommand        KEYWORD2
 setDefaultHandler KEYWORD2
-readSerial        KEYWORD2
+readString        KEYWORD2
 clearBuffer       KEYWORD2
 next              KEYWORD2
 
